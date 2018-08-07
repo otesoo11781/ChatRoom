@@ -1,5 +1,4 @@
-# NCTU_NP_HW1
-NCTU NP homework1 , a simple chat room.
+# A simple chat room
 
 ### SERVER
 When executing the server , the first argument is a PORT of this application.
